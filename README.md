@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LinneaWa
-- 👀 I’m interested in learning how to code and evertything that comes with it.
-- 🌱 I’m currently a student at Technigo Web Dev Bootcamp
+- 👀 I’m interested in learning how to code and everything that comes with it.
+- 🌱 I’m currently a student at Technigo Web Dev Bootcamp.
 
 
 <!---
